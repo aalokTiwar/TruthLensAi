@@ -1,0 +1,72 @@
+[
+    {
+        "id": "e001",
+        "claim": "The Earth is approximately 4.54 billion years old.",
+        "evidence": "Scientific estimates based on radiometric dating indicate that Earth formed approximately 4.54 billion years ago.",
+        "label": "TRUE",
+        "source": "Scientific consensus"
+    },
+    {
+        "id": "e002",
+        "claim": "The Sun is a star.",
+        "evidence": "The Sun is the star at the center of our Solar System and is classified as a G-type main-sequence star.",
+        "label": "TRUE",
+        "source": "Astronomy reference"
+    },
+    {
+        "id": "e003",
+        "claim": "Water freezes at 0 degrees Celsius at standard atmospheric pressure.",
+        "evidence": "At standard atmospheric pressure, pure water freezes at 0 degrees Celsius.",
+        "label": "TRUE",
+        "source": "Physics reference"
+    },
+    {
+        "id": "e004",
+        "claim": "Humans landed on Mars in 2025.",
+        "evidence": "No human has landed on Mars. Robotic missions have explored the Martian surface, but human Mars missions have not yet occurred.",
+        "label": "FALSE",
+        "source": "Space exploration reference"
+    },
+    {
+        "id": "e005",
+        "claim": "The Great Wall of China is visible from the Moon with the naked eye.",
+        "evidence": "There is no reliable evidence that the Great Wall of China can be seen from the Moon with the naked eye. The claim is commonly cited as a myth.",
+        "label": "FALSE",
+        "source": "Astronomy reference"
+    },
+    {
+        "id": "e006",
+        "claim": "The Pacific Ocean is the largest ocean on Earth.",
+        "evidence": "The Pacific Ocean is the largest and deepest of Earth's five major oceans.",
+        "label": "TRUE",
+        "source": "Geography reference"
+    },
+    {
+        "id": "e007",
+        "claim": "Mount Everest is the highest mountain above sea level.",
+        "evidence": "Mount Everest has the highest elevation above mean sea level at approximately 8,849 meters.",
+        "label": "TRUE",
+        "source": "Geography reference"
+    },
+    {
+        "id": "e008",
+        "claim": "The human body has exactly 100 bones.",
+        "evidence": "An adult human skeleton normally has approximately 206 bones, not 100.",
+        "label": "FALSE",
+        "source": "Human anatomy reference"
+    },
+    {
+        "id": "e009",
+        "claim": "The Amazon rainforest is located entirely in Brazil.",
+        "evidence": "The Amazon rainforest extends across several South American countries, including Brazil, Peru, Colombia, Bolivia, Venezuela, Ecuador, Guyana, Suriname, and French Guiana.",
+        "label": "FALSE",
+        "source": "Geography reference"
+    },
+    {
+        "id": "e010",
+        "claim": "Light travels faster than sound in air.",
+        "evidence": "Light travels through a vacuum at approximately 299,792 kilometers per second, while sound travels through air at roughly 343 meters per second at room temperature.",
+        "label": "TRUE",
+        "source": "Physics reference"
+    }
+]
